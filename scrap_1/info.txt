@@ -1,0 +1,3 @@
+data_perfiles.xlsx -> data de cada perfil en el tiempo
+urls -> urls finales para hacer scraping
+perfiles -> descripción de cada perfil
