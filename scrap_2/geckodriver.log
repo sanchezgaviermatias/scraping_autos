@@ -1,0 +1,1955 @@
+1623697536186	geckodriver	INFO	Listening on 127.0.0.1:64350
+1623697539197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile4HSBGl"
+1623697539753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile4HSBGl\\search.json.mozlz4", (void 0)))
+[Parent 26048, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1623697543789	Marionette	INFO	Listening on port 57420
+1623697544043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623697551199	Marionette	INFO	Stopped listening on port 57420
+1623698085295	geckodriver	INFO	Listening on 127.0.0.1:61831
+1623698088950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileCAFHbX"
+1623698089801	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623698091528	Marionette	INFO	Listening on port 64068
+1623698091625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623698102881	Marionette	INFO	Stopped listening on port 64068
+1623698423237	geckodriver	INFO	Listening on 127.0.0.1:52529
+1623698426853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileo9rPoM"
+1623698427622	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623698429406	Marionette	INFO	Listening on port 58798
+1623698429509	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1623698444549	Marionette	INFO	Stopped listening on port 58798
+1623698460026	geckodriver	INFO	Listening on 127.0.0.1:58240
+1623698463585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilei5oZ1z"
+1623698464399	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623698466121	Marionette	INFO	Listening on port 58072
+1623698466266	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1623698475895	Marionette	INFO	Stopped listening on port 58072
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623698506609	geckodriver	INFO	Listening on 127.0.0.1:53372
+1623698510198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileNoA8XW"
+1623698510965	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623698512854	Marionette	INFO	Listening on port 62485
+1623698513377	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Parent 23884, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1623698836560	Marionette	INFO	Stopped listening on port 62485
+round" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileMjwxDO"
+1623698635751	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623698637536	Marionette	INFO	Listening on port 58698
+1623698637662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1623698649796	Marionette	INFO	Stopped listening on port 58698
+1623698657098	geckodriver	INFO	Listening on 127.0.0.1:49157
+1623698660833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilesaOM93"
+1623698661598	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623698663475	Marionette	INFO	Listening on port 60041
+1623698663499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623698703987	Marionette	INFO	Stopped listening on port 60041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623698719906	geckodriver	INFO	Listening on 127.0.0.1:63866
+1623698723557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilexerBAI"
+1623698724306	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623698726028	Marionette	INFO	Listening on port 60079
+1623698726236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623701436448	Marionette	INFO	Stopped listening on port 60079
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileb5gaqf"
+1623698853480	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623698855264	Marionette	INFO	Listening on port 55107
+1623698855363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623698875994	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623698880244	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623698896461	Marionette	INFO	Stopped listening on port 55107
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623698912340	geckodriver	INFO	Listening on 127.0.0.1:60637
+1623698915954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile51fCmQ"
+1623698916759	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623698919022	Marionette	INFO	Listening on port 50813
+1623698919119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623701437360	Marionette	INFO	Stopped listening on port 50813
+3698979467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileAlX5Zs"
+1623698980249	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623698982076	Marionette	INFO	Listening on port 59895
+1623698982118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623699022689	Marionette	INFO	Stopped listening on port 59895
+[Child 26876, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623699038502	geckodriver	INFO	Listening on 127.0.0.1:64277
+1623699042172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileqBfjX2"
+1623699043104	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623699045098	Marionette	INFO	Listening on port 64041
+1623699045332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncauJavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Network Error
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Network Error
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Network Error
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Network Error
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Network Error
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623701440262	Marionette	INFO	Stopped listening on port 51355
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Network Error
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Network Error
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Network Error
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623701438435	Marionette	INFO	Stopped listening on port 64041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Network Error
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623701439528	Marionette	INFO	Stopped listening on port 63888
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ipt error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: unc
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0026,name=PNecko::Msg_RequestContextAfterDOMContentLoaded) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.comparaencasa.com/seguros-de-auto/cotizador/?car_brand=28&year=2020, line 12: TypeError: document.location is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: toJavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623701432079	Marionette	INFO	Stopped listening on port 50457
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+r: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel cloJavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623701429304	Marionette	INFO	Stopped listening on port 58598
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ild][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannelJavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Network Error
+JavaScript error: , line 0: uncaught exception: undefined
+1623701431511	Marionette	INFO	Stopped listening on port 53188
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5AJavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Network Error
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 29532, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1623701430569	Marionette	INFO	Stopped listening on port 49889
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ssage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623701428099	Marionette	INFO	Stopped listening on port 60302
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+end/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623701425873	Marionette	INFO	Stopped listening on port 52590
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623701490706	geckodriver	INFO	Listening on 127.0.0.1:56868
+1623701494292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileUxKqGU"
+1623701495062	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623701496783	Marionette	INFO	Listening on port 54788
+1623701496975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623701546043	Marionette	INFO	Stopped listening on port 54788
+1623701672684	geckodriver	INFO	Listening on 127.0.0.1:58374
+1623701676297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilel2FPKV"
+1623701677126	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623701678709	Marionette	INFO	Listening on port 60414
+1623701678954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://conversio.ceca.co/js/tracker.min.js?v=3, line 13: Error: Request aborted
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Network Error
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623701804207	Marionette	INFO	Stopped listening on port 60414
+1623702136394	geckodriver	INFO	Listening on 127.0.0.1:53033
+1623702139998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilegjHkFq"
+1623702140789	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623702142374	Marionette	INFO	Listening on port 57795
+1623702142656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623702188180	Marionette	INFO	Stopped listening on port 57795
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623702356543	geckodriver	INFO	Listening on 127.0.0.1:58691
+1623702360125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilejnfLiF"
+1623702360898	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623702362523	Marionette	INFO	Listening on port 58700
+1623702362784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+1623702479454	Marionette	INFO	Stopped listening on port 58700
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623702788183	geckodriver	INFO	Listening on 127.0.0.1:49865
+1623702791811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilebTca83"
+1623702792578	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623702794171	Marionette	INFO	Listening on port 49873
+1623702794490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623702836496	Marionette	INFO	Stopped listening on port 49873
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623703039685	geckodriver	INFO	Listening on 127.0.0.1:52558
+1623703043248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile5F27jY"
+1623703044039	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623703045616	Marionette	INFO	Listening on port 50563
+1623703045916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623703161258	Marionette	INFO	Stopped listening on port 50563
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623703490766	geckodriver	INFO	Listening on 127.0.0.1:55908
+1623703494378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilebcQu8p"
+1623703495175	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623703496754	Marionette	INFO	Listening on port 55919
+1623703497029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623703541299	Marionette	INFO	Stopped listening on port 55919
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623703765489	geckodriver	INFO	Listening on 127.0.0.1:51056
+1623703769071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile1IRN7V"
+1623703769870	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623703771452	Marionette	INFO	Listening on port 51064
+1623703771747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623703892603	Marionette	INFO	Stopped listening on port 51064
+[Parent 21424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623704085795	geckodriver	INFO	Listening on 127.0.0.1:50070
+1623704089426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileGM5rGZ"
+1623704090169	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623704091761	Marionette	INFO	Listening on port 50078
+1623704092087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623704135729	Marionette	INFO	Stopped listening on port 50078
+[Child 14964, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623704267048	geckodriver	INFO	Listening on 127.0.0.1:57958
+1623704270676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileZC59Ho"
+1623704271499	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623704273090	Marionette	INFO	Listening on port 57966
+1623704273339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+1623704390791	Marionette	INFO	Stopped listening on port 57966
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623704832059	geckodriver	INFO	Listening on 127.0.0.1:64542
+1623704835671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile4qL7Sb"
+1623704836480	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623704838115	Marionette	INFO	Listening on port 64550
+1623704838323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623704879149	Marionette	INFO	Stopped listening on port 64550
+1623705008756	geckodriver	INFO	Listening on 127.0.0.1:63962
+1623705012338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile2uvwDu"
+1623705013119	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623705014920	Marionette	INFO	Listening on port 63971
+1623705014997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623705130892	Marionette	INFO	Stopped listening on port 63971
+1623705494465	geckodriver	INFO	Listening on 127.0.0.1:61211
+1623705498094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileqMdhaH"
+1623705498861	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623705500435	Marionette	INFO	Listening on port 61219
+1623705500771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1623705541923	Marionette	INFO	Stopped listening on port 61219
+1623705806873	geckodriver	INFO	Listening on 127.0.0.1:55396
+1623705810454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile4GulZ9"
+1623705811231	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623705812812	Marionette	INFO	Listening on port 55404
+1623705813134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623705926836	Marionette	INFO	Stopped listening on port 55404
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623706272223	geckodriver	INFO	Listening on 127.0.0.1:63344
+1623706275804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileilgsiv"
+1623706276612	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623706278450	Marionette	INFO	Listening on port 63352
+1623706278478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623706331627	Marionette	INFO	Stopped listening on port 63352
+1623706472506	geckodriver	INFO	Listening on 127.0.0.1:58040
+1623706476191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilechL4ki"
+1623706476964	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623706478655	Marionette	INFO	Listening on port 58048
+1623706478852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+1623706597275	Marionette	INFO	Stopped listening on port 58048
+1623706929690	geckodriver	INFO	Listening on 127.0.0.1:58457
+1623706933315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileij5er8"
+1623706934136	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623706935997	Marionette	INFO	Listening on port 58465
+1623706936485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623706987489	Marionette	INFO	Stopped listening on port 58465
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623707184949	geckodriver	INFO	Listening on 127.0.0.1:50134
+1623707188616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileiIBKX3"
+1623707189400	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623707191054	Marionette	INFO	Listening on port 50142
+1623707191288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+1623707309737	Marionette	INFO	Stopped listening on port 50142
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623707896812	geckodriver	INFO	Listening on 127.0.0.1:60801
+1623707900458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileiZ4wTl"
+1623707901210	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623707902797	Marionette	INFO	Listening on port 60809
+1623707903121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623707943380	Marionette	INFO	Stopped listening on port 60809
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623708064976	geckodriver	INFO	Listening on 127.0.0.1:61860
+1623708068633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileDZzRkG"
+1623708069404	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623708071210	Marionette	INFO	Listening on port 61868
+1623708071296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708186712	Marionette	INFO	Stopped listening on port 61868
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623708552917	geckodriver	INFO	Listening on 127.0.0.1:49761
+1623708556535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileD4bwgE"
+1623708557306	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623708559086	Marionette	INFO	Listening on port 49772
+1623708559205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708602347	Marionette	INFO	Stopped listening on port 49772
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623708712730	geckodriver	INFO	Listening on 127.0.0.1:55640
+1623708716328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileL7jgM1"
+1623708717074	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623708718659	Marionette	INFO	Listening on port 55648
+1623708718994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+1623708834774	Marionette	INFO	Stopped listening on port 55648
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623709371854	geckodriver	INFO	Listening on 127.0.0.1:54517
+1623709375496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileNlKLkR"
+1623709376273	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623709378167	Marionette	INFO	Listening on port 54526
+1623709378672	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1623711288343	Marionette	INFO	Stopped listening on port 54526
+3710888156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileRXqnbD"
+1623710888935	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623710890552	Marionette	INFO	Listening on port 54614
+1623710890837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623710933822	Marionette	INFO	Stopped listening on port 54614
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623711083721	geckodriver	INFO	Listening on 127.0.0.1:57114
+1623711087287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileNNJ3XI"
+1623711088098	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623711089720	Marionette	INFO	Listening on port 57125
+1623711089982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+1623711183732	Marionette	INFO	Stopped listening on port 57125
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623711456094	geckodriver	INFO	Listening on 127.0.0.1:55681
+1623711459706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileDJKKQa"
+1623711460490	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623711462152	Marionette	INFO	Listening on port 55689
+1623711462379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623711503795	Marionette	INFO	Stopped listening on port 55689
+1623711716894	geckodriver	INFO	Listening on 127.0.0.1:56666
+1623711720507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilenwUL5b"
+1623711721289	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623711722875	Marionette	INFO	Listening on port 56674
+1623711723172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623711818438	Marionette	INFO	Stopped listening on port 56674
+1623711979858	geckodriver	INFO	Listening on 127.0.0.1:53029
+1623711983402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilec2iVeV"
+1623711984154	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623711985718	Marionette	INFO	Listening on port 53051
+1623711986075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1623712030564	Marionette	INFO	Stopped listening on port 53051
+1623712161358	geckodriver	INFO	Listening on 127.0.0.1:63603
+1623712164987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilecUvotv"
+1623712165779	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623712167355	Marionette	INFO	Listening on port 63611
+1623712167653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623712264752	Marionette	INFO	Stopped listening on port 63611
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623712435166	geckodriver	INFO	Listening on 127.0.0.1:58007
+1623712438778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileppK4c9"
+1623712439539	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623712441194	Marionette	INFO	Listening on port 58016
+1623712441453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623712483186	Marionette	INFO	Stopped listening on port 58016
+[Child 27592, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623712614120	geckodriver	INFO	Listening on 127.0.0.1:58177
+1623712617749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileLcBFfJ"
+1623712618497	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623712620071	Marionette	INFO	Listening on port 58185
+1623712620404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623712717312	Marionette	INFO	Stopped listening on port 58185
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623712949368	geckodriver	INFO	Listening on 127.0.0.1:62120
+1623712952950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileB91vle"
+1623712953707	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623712955305	Marionette	INFO	Listening on port 62128
+1623712955650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623712999615	Marionette	INFO	Stopped listening on port 62128
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623713117208	geckodriver	INFO	Listening on 127.0.0.1:62297
+1623713120767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileZ0ih7z"
+1623713121613	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623713123194	Marionette	INFO	Listening on port 62305
+1623713123439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623713220181	Marionette	INFO	Stopped listening on port 62305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623713306278	geckodriver	INFO	Listening on 127.0.0.1:49746
+1623713309853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileSyvmN0"
+1623713310609	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623713312193	Marionette	INFO	Listening on port 49754
+1623713312526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1623713355840	Marionette	INFO	Stopped listening on port 49754
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623713431693	geckodriver	INFO	Listening on 127.0.0.1:51313
+1623713435275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileHAW172"
+1623713436039	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623713437629	Marionette	INFO	Listening on port 51321
+1623713437942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623713535679	Marionette	INFO	Stopped listening on port 51321
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623713667439	geckodriver	INFO	Listening on 127.0.0.1:52647
+1623713671036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile00n58C"
+1623713671779	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623713673423	Marionette	INFO	Listening on port 52655
+1623713673709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1623713715107	Marionette	INFO	Stopped listening on port 52655
+1623713876215	geckodriver	INFO	Listening on 127.0.0.1:64310
+1623713879815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile2OD6rO"
+1623713880579	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623713882151	Marionette	INFO	Listening on port 64329
+1623713882485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623713986619	Marionette	INFO	Stopped listening on port 64329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623714160805	geckodriver	INFO	Listening on 127.0.0.1:52303
+1623714164387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilewP9aBV"
+1623714165138	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623714166724	Marionette	INFO	Listening on port 52313
+1623714167076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623714210818	Marionette	INFO	Stopped listening on port 52313
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1623714395725	geckodriver	INFO	Listening on 127.0.0.1:56126
+1623714399338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilecpi1vx"
+1623714400085	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623714401663	Marionette	INFO	Listening on port 56134
+1623714402000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+1623714498754	Marionette	INFO	Stopped listening on port 56134
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623714559707	geckodriver	INFO	Listening on 127.0.0.1:52152
+1623714563257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileyaTasw"
+1623714564051	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623714565641	Marionette	INFO	Listening on port 52160
+1623714565923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1623714606475	Marionette	INFO	Stopped listening on port 52160
+1623714718442	geckodriver	INFO	Listening on 127.0.0.1:60893
+1623714722024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilevHzOS8"
+1623714722762	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623714724374	Marionette	INFO	Listening on port 60901
+1623714724697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+1623714822178	Marionette	INFO	Stopped listening on port 60901
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623714997570	geckodriver	INFO	Listening on 127.0.0.1:54348
+1623715001167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileFWzhMN"
+1623715001931	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623715003724	Marionette	INFO	Listening on port 54356
+1623715003844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623715048232	Marionette	INFO	Stopped listening on port 54356
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623715159051	geckodriver	INFO	Listening on 127.0.0.1:56894
+1623715162658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileTpchMi"
+1623715163430	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623715165023	Marionette	INFO	Listening on port 56902
+1623715165339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623715258736	Marionette	INFO	Stopped listening on port 56902
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623715373853	geckodriver	INFO	Listening on 127.0.0.1:64572
+1623715377428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilewIJLJT"
+1623715378158	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623715379739	Marionette	INFO	Listening on port 64580
+1623715380080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623715424208	Marionette	INFO	Stopped listening on port 64580
+1623715515992	geckodriver	INFO	Listening on 127.0.0.1:64739
+1623715519573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileqHY1ct"
+1623715520367	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623715521955	Marionette	INFO	Listening on port 64753
+1623715522240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1623715615320	Marionette	INFO	Stopped listening on port 64753
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623715796176	geckodriver	INFO	Listening on 127.0.0.1:61475
+1623715799751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileakIQnw"
+1623715800501	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623715802086	Marionette	INFO	Listening on port 61483
+1623715802410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623715851503	Marionette	INFO	Stopped listening on port 61483
+1623715927410	geckodriver	INFO	Listening on 127.0.0.1:61642
+1623715931023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilesBKMt0"
+1623715931771	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623715933366	Marionette	INFO	Listening on port 61650
+1623715933679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+1623716032678	Marionette	INFO	Stopped listening on port 61650
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623716093696	geckodriver	INFO	Listening on 127.0.0.1:64720
+1623716097278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilesOweOF"
+1623716098058	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623716099635	Marionette	INFO	Listening on port 64728
+1623716099943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623716147727	Marionette	INFO	Stopped listening on port 64728
+[Child 12696, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623716229988	geckodriver	INFO	Listening on 127.0.0.1:60731
+1623716233600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilePeFM8w"
+1623716234339	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623716236019	Marionette	INFO	Listening on port 60739
+1623716236265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623716331251	Marionette	INFO	Stopped listening on port 60739
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623716419323	geckodriver	INFO	Listening on 127.0.0.1:54837
+1623716422899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileZwafsM"
+1623716423653	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623716425215	Marionette	INFO	Listening on port 54845
+1623716425572	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623716477637	Marionette	INFO	Stopped listening on port 54845
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623716553493	geckodriver	INFO	Listening on 127.0.0.1:59333
+1623716557106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilenxHCg4"
+1623716557861	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623716559462	Marionette	INFO	Listening on port 59341
+1623716559782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623716664712	Marionette	INFO	Stopped listening on port 59341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623716767442	geckodriver	INFO	Listening on 127.0.0.1:52564
+1623716770985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileDRwXkL"
+1623716771744	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623716773324	Marionette	INFO	Listening on port 52572
+1623716773658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623716820607	Marionette	INFO	Stopped listening on port 52572
+1623716915151	geckodriver	INFO	Listening on 127.0.0.1:49187
+1623716918764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile6yM6gY"
+1623716919507	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623716921073	Marionette	INFO	Listening on port 49195
+1623716921414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623717021370	Marionette	INFO	Stopped listening on port 49195
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623717287911	geckodriver	INFO	Listening on 127.0.0.1:58559
+1623717291521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofiletczbe5"
+1623717292296	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623717293907	Marionette	INFO	Listening on port 58567
+1623717294228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623717334217	Marionette	INFO	Stopped listening on port 58567
+1623717391354	geckodriver	INFO	Listening on 127.0.0.1:58722
+1623717394936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilekZHnRc"
+1623717395717	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623717397349	Marionette	INFO	Listening on port 58730
+1623717397603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623717494424	Marionette	INFO	Stopped listening on port 58730
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623717554527	geckodriver	INFO	Listening on 127.0.0.1:53629
+1623717558086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile2nvENP"
+1623717558831	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623717560412	Marionette	INFO	Listening on port 53637
+1623717560779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623717602060	Marionette	INFO	Stopped listening on port 53637
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623717652907	geckodriver	INFO	Listening on 127.0.0.1:53785
+1623717656550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileixJJhC"
+1623717657288	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623717658884	Marionette	INFO	Listening on port 53796
+1623717659204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+1623717752732	Marionette	INFO	Stopped listening on port 53796
+1623717820881	geckodriver	INFO	Listening on 127.0.0.1:57457
+1623717824494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileFaKK8k"
+1623717825254	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623717826826	Marionette	INFO	Listening on port 57465
+1623717827156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623717867438	Marionette	INFO	Stopped listening on port 57465
+1623717918258	geckodriver	INFO	Listening on 127.0.0.1:57621
+1623717921802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile6FVhLO"
+1623717922546	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623717924123	Marionette	INFO	Listening on port 57629
+1623717924470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623718019967	Marionette	INFO	Stopped listening on port 57629
+1623718084341	geckodriver	INFO	Listening on 127.0.0.1:63530
+1623718087915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileKdca3D"
+1623718088669	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623718090244	Marionette	INFO	Listening on port 63538
+1623718090574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623718131944	Marionette	INFO	Stopped listening on port 63538
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623718227954	geckodriver	INFO	Listening on 127.0.0.1:59495
+1623718231541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile1rh8pE"
+1623718232303	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623718233896	Marionette	INFO	Listening on port 59503
+1623718234215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+1623718329800	Marionette	INFO	Stopped listening on port 59503
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623718390687	geckodriver	INFO	Listening on 127.0.0.1:63937
+1623718394250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileY6FmwI"
+1623718395048	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623718396647	Marionette	INFO	Listening on port 63945
+1623718396929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623718438615	Marionette	INFO	Stopped listening on port 63945
+[Child 29132, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1623718489461	geckodriver	INFO	Listening on 127.0.0.1:64103
+1623718493040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileW2ng0D"
+1623718493795	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623718495399	Marionette	INFO	Listening on port 64111
+1623718495709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623718575074	Marionette	INFO	Stopped listening on port 64111
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623718641251	geckodriver	INFO	Listening on 127.0.0.1:53390
+1623718644786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilecxezQh"
+1623718645588	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623718647161	Marionette	INFO	Listening on port 53398
+1623718647461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623718690727	Marionette	INFO	Stopped listening on port 53398
+1623718750477	geckodriver	INFO	Listening on 127.0.0.1:52931
+1623718754058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileU7OeRm"
+1623718754796	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623718756375	Marionette	INFO	Listening on port 52977
+1623718756739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+1623718857361	Marionette	INFO	Stopped listening on port 52977
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623718924411	geckodriver	INFO	Listening on 127.0.0.1:60912
+1623718927943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilespWXZQ"
+1623718928721	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623718930313	Marionette	INFO	Listening on port 60920
+1623718930606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623718973799	Marionette	INFO	Stopped listening on port 60920
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623719030249	geckodriver	INFO	Listening on 127.0.0.1:54215
+1623719033819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileRGUwh6"
+1623719034580	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623719036172	Marionette	INFO	Listening on port 54223
+1623719036493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://conversio.ceca.co/js/tracker.min.js?v=3, line 13: Error: Request aborted
+1623719137347	Marionette	INFO	Stopped listening on port 54223
+1623719209109	geckodriver	INFO	Listening on 127.0.0.1:55920
+1623719212705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileq4Vkds"
+1623719213454	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623719215058	Marionette	INFO	Listening on port 55928
+1623719215386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623719257616	Marionette	INFO	Stopped listening on port 55928
+[Child 21392, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623719363744	geckodriver	INFO	Listening on 127.0.0.1:56087
+1623719367372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilewxIAvb"
+1623719368127	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623719369712	Marionette	INFO	Listening on port 56095
+1623719370022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623719467448	Marionette	INFO	Stopped listening on port 56095
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623719532040	geckodriver	INFO	Listening on 127.0.0.1:56313
+1623719535580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileebup02"
+1623719536325	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623719537930	Marionette	INFO	Listening on port 56321
+1623719538284	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: uncaught exception: undefined
+1623719590125	Marionette	INFO	Stopped listening on port 56321
+1623719681457	geckodriver	INFO	Listening on 127.0.0.1:63344
+1623719685121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofiley9xQub"
+1623719685933	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623719687539	Marionette	INFO	Listening on port 63352
+1623719687789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1623719782560	Marionette	INFO	Stopped listening on port 63352
+1623719847146	geckodriver	INFO	Listening on 127.0.0.1:64618
+1623719850741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileqluU6f"
+1623719851482	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623719853053	Marionette	INFO	Listening on port 64626
+1623719853426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623719893540	Marionette	INFO	Stopped listening on port 64626
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623719944564	geckodriver	INFO	Listening on 127.0.0.1:49255
+1623719948175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileRj7Z7K"
+1623719948953	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623719950597	Marionette	INFO	Listening on port 49265
+1623719950858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623720043798	Marionette	INFO	Stopped listening on port 49265
+1623720115838	geckodriver	INFO	Listening on 127.0.0.1:64186
+1623720119429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilegit1nz"
+1623720120188	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623720121843	Marionette	INFO	Listening on port 64194
+1623720122114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1623720164053	Marionette	INFO	Stopped listening on port 64194
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623720214874	geckodriver	INFO	Listening on 127.0.0.1:60220
+1623720218456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilecvTcVM"
+1623720219219	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623720220788	Marionette	INFO	Listening on port 60228
+1623720221122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+1623720322543	Marionette	INFO	Stopped listening on port 60228
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623720391446	geckodriver	INFO	Listening on 127.0.0.1:60421
+1623720395011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilecTkFpH"
+1623720395761	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623720397352	Marionette	INFO	Listening on port 60429
+1623720397663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623720440070	Marionette	INFO	Stopped listening on port 60429
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623720546350	geckodriver	INFO	Listening on 127.0.0.1:60912
+1623720549947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile7vCYZR"
+1623720550746	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623720552329	Marionette	INFO	Listening on port 60925
+1623720552611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623720648717	Marionette	INFO	Stopped listening on port 60925
+1623720714004	geckodriver	INFO	Listening on 127.0.0.1:55015
+1623720717664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilecxhdY5"
+1623720718452	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623720720519	Marionette	INFO	Listening on port 52730
+1623720720838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623720763379	Marionette	INFO	Stopped listening on port 52730
+1623720814305	geckodriver	INFO	Listening on 127.0.0.1:53927
+1623720817887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofile1f7X6O"
+1623720818634	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623720820278	Marionette	INFO	Listening on port 53935
+1623720820543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623720915070	Marionette	INFO	Stopped listening on port 53935
+1623720979495	geckodriver	INFO	Listening on 127.0.0.1:59243
+1623720983077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofiles6umei"
+1623720983851	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623720985462	Marionette	INFO	Listening on port 59251
+1623720985744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1623721026329	Marionette	INFO	Stopped listening on port 59251
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623721148952	geckodriver	INFO	Listening on 127.0.0.1:53952
+1623721152487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilefXdFuA"
+1623721153255	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623721155086	Marionette	INFO	Listening on port 53963
+1623721155152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1623721234967	Marionette	INFO	Stopped listening on port 53963
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623721299529	geckodriver	INFO	Listening on 127.0.0.1:54139
+1623721303088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofiletiUe7G"
+1623721303878	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623721305483	Marionette	INFO	Listening on port 54147
+1623721305761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623721345891	Marionette	INFO	Stopped listening on port 54147
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623721396734	geckodriver	INFO	Listening on 127.0.0.1:61323
+1623721400309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilew5wwCZ"
+1623721401066	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623721402657	Marionette	INFO	Listening on port 61331
+1623721402983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s3-sa-east-1.amazonaws.com/ceca-fox/chat.app.min.js?v=2, line 20: Error: Request aborted
+1623721498260	Marionette	INFO	Stopped listening on port 61331
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623763343539	geckodriver	INFO	Listening on 127.0.0.1:51278
+1623763346587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilerarmlv"
+1623763347126	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofilerarmlv\\search.json.mozlz4", (void 0)))
+1623763349673	Marionette	INFO	Listening on port 51286
+1623763350191	Marionette	INFO	Stopped listening on port 51286
+1623774983049	geckodriver	INFO	Listening on 127.0.0.1:49579
+1623774986715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileeXheIl"
+1623774987574	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623774989340	Marionette	INFO	Listening on port 49587
+1623774989386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623775660355	Marionette	INFO	Stopped listening on port 49587
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileqBEoIR"
+1623775114437	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623775116115	Marionette	INFO	Listening on port 49269
+1623775116367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623775329294	Marionette	INFO	Stopped listening on port 49261623775329535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matias\\AppData\\Local\\Temp\\rust_mozprofileyZlYKu"
+1623775330371	Marionette	INFO	Marionette enabled
+extension-storage: migration complete
+1623775332032	Marionette	INFO	Listening on port 54835
+1623775332235	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: chrome://marionette/content/driver.js, line 2346: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+1623775332399	Marionette	INFO	Stopped listening on port 54835
+JavaScript error: chrome://marionette/content/driver.js, line 2346: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
